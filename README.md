@@ -1,6 +1,6 @@
 # Pomodoro-Clock
 
-A Pomodoro Clock with a timer of 25-min session and 5-min break by defult but users can set own session/break lengths.
+A Pomodoro Clock with a timer of 25-min session and 5-min break by defult but users can set own session/break lengths. Check it out [Live](https://milyas359.github.io/Pomodoro-Clock)
 
 The Pomodoro Technique is a time management method developed by Francesco Cirillo in the late 1980s. The technique uses a timer to break down work into intervals, traditionally 25 minutes in length, separated by short breaks - 5 minutes.
 
