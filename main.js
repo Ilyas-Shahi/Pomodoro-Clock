@@ -41,6 +41,7 @@ startPauseBtn.addEventListener('click', () => {
 // Reset btn
 resetBtn.addEventListener('click', () => {
   timerRunning = false;
+  clearInterval(interval);
 
   startPauseBtnIcon.className = 'fas fa-play';
   startPauseBtnText.innerText = 'Start';
