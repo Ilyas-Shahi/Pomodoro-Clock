@@ -50,6 +50,8 @@ resetBtn.addEventListener('click', () => {
   mainTimeSecs.textContent = '00';
   sessionLnt.textContent = '25';
   breakLnt.textContent = '5';
+
+  console.log(timerRunning);
 });
 
 // Start timer
